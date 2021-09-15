@@ -1,11 +1,12 @@
 
-Welcome to Area Estimation with SEPAL and CEO!
-==============================================
+Comparing interpreter results for classification training data and validation data collection
+=============================================================================================
 
 .. toctree::
    :maxdepth: 3
 
    Introduction <intro>
+   Workbook setup <exercise-0>
    Interpreter agreement <exercise-1>
    Plot assessment <exercise-2>
    Class assessment <exercise-3>
